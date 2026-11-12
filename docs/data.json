@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T11:29+00:00",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T11:55+00:00",
   "model": "Helsinki-NLP/opus-mt-en-he",
   "cards": [
     {
@@ -11,8 +11,8 @@
       "friends": [
         "Hagar"
       ],
-      "text_en": "Things are likely to be pretty quiet for Aquarius today, with no major dramas or surprises on the horizon. This could be a good time to catch up on some routine tasks or chores that have been put off for a while. Some Aquarians may be feeling a bit restless or bored, but this should pass soon. A conversation with a friend or family member could help liven things up and provide a fresh perspective. Overall, it's a good day to take things easy and focus on everyday matters.",
-      "text_he": "סביר להניח שדברים יהיו שקטים למדי עבור אקווריוס היום, ללא דרמות גדולות או הפתעות באופק. זה יכול להיות זמן טוב להתעדכן בכמה מטלות או מטלות שגרתיות שנדחו לזמן מה. חלק Aquarians אולי מרגיש קצת חסר מנוחה או משועמם, אבל זה צריך לעבור בקרוב. שיחה עם חבר או בן משפחה יכולה לעזור להחיות דברים ולספק נקודת מבט חדשה. בסך הכל, זה יום טוב לקחת את הדברים בקלות ולהתמקד בעניינים יומיומיים."
+      "text_en": "Things are likely to be pretty quiet for Aquarius today, with not a lot of major events or surprises on the horizon. This can be a good thing, as it gives you a chance to catch your breath and focus on the things that are important to you. You may find yourself thinking about your long-term goals and how to achieve them. It's a good day to make some plans and set some priorities, but don't feel like you need to rush into anything. Take your time and think things through carefully.",
+      "text_he": "סביר להניח שדברים יהיו די שקטים עבור אקווריוס היום, ללא הרבה אירועים גדולים או הפתעות באופק. זה יכול להיות דבר טוב, כי זה נותן לך הזדמנות להסדיר את הנשימה ולהתמקד בדברים שחשובים לך. אתה עלול למצוא את עצמך חושב על המטרות לטווח הארוך שלך ואיך להשיג אותם. זה יום טוב לעשות כמה תוכניות ולקבע כמה סדרי עדיפויות, אבל לא מרגיש כמו שאתה צריך למהר לשום דבר. קח את הזמן שלך ולחשוב על דברים דרך בזהירות."
     },
     {
       "sign": "taurus",
@@ -23,8 +23,8 @@
         "Nofar",
         "Topaz"
       ],
-      "text_en": "Things are likely to be pretty quiet for Taurus today, with no major surprises or upheavals on the horizon. This could be a good time to focus on routine tasks and get some work done. You may also find yourself thinking about your long-term goals and what you want to achieve in the coming months. It's a good idea to take some time to reflect on what's truly important to you. Your practical and patient approach will serve you well today.",
-      "text_he": "סביר להניח שדברים יהיו די שקטים עבור מזל שור היום, ללא הפתעות גדולות או תהפוכות באופק. זה יכול להיות זמן טוב להתמקד במשימות שגרתיות ולעשות קצת עבודה. אולי גם תמצא את עצמך חושב על מטרותיך לטווח הארוך ועל מה שאתה רוצה להשיג בחודשים הקרובים. זה רעיון טוב לקחת קצת זמן לחשוב על מה שבאמת חשוב לך. הגישה המעשית והסבלנית שלך תשרת אותך היטב היום."
+      "text_en": "People around you may be moving quickly, but that's not really your style, and you're probably feeling just fine about taking your time. You're focusing on what's solid and reliable, and that's a good approach right now. Your practical side is serving you well, helping you make sense of things and prioritize what's important. You might be thinking about making some changes at home or in your daily routine, and that's okay, just take it one step at a time. Overall, it's a good day to focus on what feels stable and secure.",
+      "text_he": "אנשים סביבך אולי זזים מהר, אבל זה לא ממש הסגנון שלך, ואתה בטח מרגיש בסדר לגבי לקחת את הזמן שלך. אתה מתמקד במה מוצק ואמין, וזה גישה טובה עכשיו. הצד המעשי שלך הוא לשרת אותך היטב, לעזור לך להבין דברים ולסדר את מה שחשוב. אתה אולי חושב לעשות כמה שינויים בבית או בשגרה היומית שלך, וזה בסדר, פשוט לקחת את זה צעד אחד בכל פעם. בסך הכל, זה יום טוב להתמקד במה שמרגיש יציב ומאובטח."
     },
     {
       "sign": "gemini",
@@ -34,8 +34,8 @@
       "friends": [
         "Tal"
       ],
-      "text_en": "For Geminis, today is a good day to focus on the details of a project or task that needs attention. You may have been putting it off, but now is the time to dive in and get it done. Your mind is sharp and you're able to think clearly, which will help you make sense of any complicated information. As you work through the day, you'll start to feel a sense of accomplishment and relief. This feeling will carry over into the rest of your day, making it more enjoyable and productive.",
-      "text_he": "עבור מזל תאומים, היום הוא יום טוב להתמקד בפרטים של פרויקט או משימה שזקוקים לתשומת לב. אולי דחית את זה, אבל עכשיו זה הזמן לצלול ולבצע את זה. המוח שלך חד ואתה מסוגל לחשוב בבהירות, מה שיעזור לך להבין כל מידע מסובך. בעודך עובד במשך היום, אתה תתחיל להרגיש תחושה של הישג והקלה. ההרגשה הזו תמשיך עד סוף היום שלך, ותהפוך אותה למהנה יותר ופורה יותר."
+      "text_en": "For Geminis, today is a good day to focus on communication and learning. You might find yourself in a situation where you need to explain your ideas or thoughts to someone, and being clear and concise will help you get your point across. It's also a good time to pick up a book or take an online course to learn something new. Your curious nature is likely to serve you well in these pursuits. Overall, it should be a productive and engaging day.",
+      "text_he": "עבור מזל תאומים, היום הוא יום טוב להתמקד בתקשורת ובלימוד. אתה עלול למצוא את עצמך במצב שבו אתה צריך להסביר רעיונות או מחשבות למישהו, ולהיות ברור ותמציתי יעזור לך לקבל את הנקודה שלך על פני. זה גם זמן טוב להרים ספר או לקחת קורס מקוון כדי ללמוד משהו חדש. הטבע הסקרני שלך הוא כנראה לשרת אותך היטב בעיסוקים אלה. בסך הכל, זה צריך להיות יום פורה ומרתק."
     },
     {
       "sign": "cancer",
@@ -45,8 +45,8 @@
       "friends": [
         "Gaya"
       ],
-      "text_en": "Cancer, today is a good day to focus on your home and family life. You may be thinking about making some changes to your living space or spending quality time with loved ones. It's also a good idea to take care of any tasks or chores you've been putting off, as getting them done will help you feel more relaxed. Your emotional side is strong right now, so be sure to listen to your intuition and trust your feelings. Overall, it's a day to prioritize what's truly important to you.",
-      "text_he": "סרטן, היום הוא יום טוב להתמקד בחיי הבית והמשפחה שלך. אולי אתה חושב לערוך שינויים במרחב המגורים שלך או לבלות זמן איכות עם יקיריך. זה גם רעיון טוב לטפל בכל מטלות או מטלות שאתה דוחה, כמו מקבל אותם נעשה יעזור לך להרגיש רגוע יותר. הצד הרגשי שלך חזק עכשיו, אז אל תשכח להקשיב לאינטואיציה שלך ולסמוך על הרגשות שלך. בסך הכל, זה יום לתעדף את מה שבאמת חשוב לך."
+      "text_en": "Cancer, today is a good day to focus on your home and family life. You may find yourself thinking about ways to make your living space more comfortable and inviting. Spending time with loved ones can be especially rewarding now, and you may feel a strong desire to connect with them on a deeper level. This is also a good time to take care of any domestic tasks or chores that you've been putting off. By taking care of these details, you can create a sense of stability and calm in your life.",
+      "text_he": "סרטן, היום הוא יום טוב להתמקד בחיי הבית והמשפחה שלך. אתה עשוי למצוא את עצמך חושב על דרכים להפוך את מרחב המחיה שלך יותר נוח ומזמין. בילוי זמן עם יקירים עשוי להיות מתגמל במיוחד כיום, ואולי אתה חש רצון עז להתחבר אליהם ברמה עמוקה יותר. זה גם זמן טוב לטפל במשימות ביתיות או מטלות שאתה דוחה. על ידי טיפול בפרטים אלה, אתה יכול ליצור תחושה של יציבות ורוגע בחיים שלך."
     },
     {
       "sign": "virgo",
@@ -56,8 +56,8 @@
       "friends": [
         "Rotem"
       ],
-      "text_en": "Today is a good day to focus on the details and get organized. You may find yourself in the mood to tidy up and make sense of your surroundings. This is also a good time to take care of any tasks or chores that you've been putting off. By getting these things out of the way, you'll be able to clear your mind and feel more in control. You might be surprised at how much of a difference a little bit of organization can make in your overall sense of well-being.",
-      "text_he": "היום הוא יום טוב להתמקד בפרטים ולהתארגן. אתה עלול למצוא את עצמך במצב רוח לסדר ולהבין את הסביבה שלך. זה גם זמן טוב לטפל בכל מטלות או מטלות שאתה דוחה. על ידי מקבל את הדברים האלה מהדרך, תוכל לנקות את דעתך ולהרגיש יותר בשליטה. אולי תופתע לגלות כמה הבדל יכול להיות ארגון קטן בתחושת רווחתך הכללית."
+      "text_en": "For Virgo, today is a good day to focus on the details of a project that's been on your mind. You're likely to be in a practical and hardworking mood, which will help you get things done. It's also a good time to think about your daily routines and see if there are any ways you can make them more efficient. You might find that making a few small changes can add up to make a big difference in the long run. Your attention to detail will serve you well in whatever you're working on.",
+      "text_he": "עבור מזל בתולה, היום הוא יום טוב להתמקד בפרטים של פרויקט שהיה בראש שלך. סביר להניח שתהיה במצב רוח מעשי וחרוץ, מה שיעזור לך לעשות דברים. זה גם זמן טוב לחשוב על השגרה היומית שלך ולראות אם יש דרכים בהן תוכל להפוך אותם ליעילים יותר. אתה עלול למצוא את זה ביצוע כמה שינויים קטנים יכול להוסיף עד לעשות הבדל גדול בטווח הארוך. תשומת הלב שלך לפרטים ישרת אותך היטב בכל מה שאתה עובד עליו."
     }
   ]
 }
